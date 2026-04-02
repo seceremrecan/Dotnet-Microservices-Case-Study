@@ -1,0 +1,11 @@
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\bin\Debug\net8.0\Log.Domain.deps.json
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\bin\Debug\net8.0\Log.Domain.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\bin\Debug\net8.0\Log.Domain.pdb
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\Log.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\Log.Domain.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\Log.Domain.AssemblyInfo.cs
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\Log.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\Log.Domain.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\refint\Log.Domain.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\Log.Domain.pdb
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\ref\Log.Domain.dll

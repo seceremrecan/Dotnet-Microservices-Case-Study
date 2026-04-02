@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\tests\\Product.UnitTests\\Product.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Application\\Product.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Application\\Product.Application.csproj",
+        "projectName": "Product.Application",
+        "projectPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Application\\Product.Application.csproj",
+        "packagesPath": "C:\\Users\\Emre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Domain\\Product.Domain.csproj": {
+                "projectPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Domain\\Product.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Domain\\Product.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Domain\\Product.Domain.csproj",
+        "projectName": "Product.Domain",
+        "projectPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Domain\\Product.Domain.csproj",
+        "packagesPath": "C:\\Users\\Emre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\tests\\Product.UnitTests\\Product.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\tests\\Product.UnitTests\\Product.UnitTests.csproj",
+        "projectName": "Product.UnitTests",
+        "projectPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\tests\\Product.UnitTests\\Product.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Emre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\tests\\Product.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Application\\Product.Application.csproj": {
+                "projectPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Application\\Product.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

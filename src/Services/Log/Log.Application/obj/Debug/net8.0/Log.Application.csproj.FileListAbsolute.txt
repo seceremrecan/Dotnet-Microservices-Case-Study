@@ -1,0 +1,15 @@
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\bin\Debug\net8.0\Log.Application.deps.json
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\bin\Debug\net8.0\Log.Application.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\bin\Debug\net8.0\Log.Application.pdb
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\bin\Debug\net8.0\Log.Domain.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\bin\Debug\net8.0\Log.Domain.pdb
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\Log.Application.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\Log.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\Log.Application.AssemblyInfoInputs.cache
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\Log.Application.AssemblyInfo.cs
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\Log.Application.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\Log.Appl.25187ACA.Up2Date
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\Log.Application.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\refint\Log.Application.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\Log.Application.pdb
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\ref\Log.Application.dll
