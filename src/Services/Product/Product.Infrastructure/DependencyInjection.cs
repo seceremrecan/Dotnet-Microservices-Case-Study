@@ -1,3 +1,4 @@
+using MassTransit;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -24,9 +25,26 @@ public static class DependencyInjection
         services.AddSingleton<IConnectionMultiplexer>(_ =>
             ConnectionMultiplexer.Connect(configuration.GetConnectionString("Redis")));
 
+        services.AddMassTransit(x =>
+        {
+            x.UsingRabbitMq((context, cfg) =>
+            {
+                var rabbitMqSection = configuration.GetSection("RabbitMq");
+
+                cfg.Host(
+                    rabbitMqSection["Host"]!,
+                    rabbitMqSection["VirtualHost"]!,
+                    h =>
+                    {
+                        h.Username(rabbitMqSection["Username"]!);
+                        h.Password(rabbitMqSection["Password"]!);
+                    });
+            });
+        });
+
         services.AddScoped<IProductRepository, ProductRepository>();
-        services.AddScoped<IProductEventPublisher, FakeProductEventPublisher>();
         services.AddScoped<IProductCacheService, RedisProductCacheService>();
+        services.AddScoped<IProductEventPublisher, RabbitMqProductEventPublisher>();
 
         return services;
     }

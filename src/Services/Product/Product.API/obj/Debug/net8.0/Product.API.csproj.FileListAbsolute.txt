@@ -145,3 +145,10 @@ C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.API
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.API\bin\Debug\net8.0\StackExchange.Redis.dll
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.API\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.API\bin\Debug\net8.0\Shared.Contracts.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.API\bin\Debug\net8.0\Shared.Contracts.pdb
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.API\obj\Debug\net8.0\Product.API.sourcelink.json
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.API\bin\Debug\net8.0\MassTransit.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.API\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.API\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.API\bin\Debug\net8.0\RabbitMQ.Client.dll

@@ -116,6 +116,9 @@
             "projectReferences": {
               "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Domain\\Product.Domain.csproj": {
                 "projectPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Domain\\Product.Domain.csproj"
+              },
+              "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Shared\\Shared.Contracts\\Shared.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Shared\\Shared.Contracts\\Shared.Contracts.csproj"
               }
             }
           }
@@ -239,6 +242,9 @@
               },
               "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Domain\\Product.Domain.csproj": {
                 "projectPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Services\\Product\\Product.Domain\\Product.Domain.csproj"
+              },
+              "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Shared\\Shared.Contracts\\Shared.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Shared\\Shared.Contracts\\Shared.Contracts.csproj"
               }
             }
           }
@@ -258,6 +264,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.3, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.3, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -273,6 +287,64 @@
               "version": "[2.12.8, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Shared\\Shared.Contracts\\Shared.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Shared\\Shared.Contracts\\Shared.Contracts.csproj",
+        "projectName": "Shared.Contracts",
+        "projectPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Shared\\Shared.Contracts\\Shared.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Emre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emre\\Desktop\\BackendDeveloperCaseStudy\\src\\Shared\\Shared.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",

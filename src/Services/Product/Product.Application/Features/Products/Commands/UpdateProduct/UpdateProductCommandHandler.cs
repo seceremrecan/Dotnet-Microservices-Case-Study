@@ -1,4 +1,5 @@
 using Product.Application.Abstractions.Caching;
+using Product.Application.Abstractions.Messaging;
 using Product.Application.Abstractions.Persistence;
 
 namespace Product.Application.Features.Products.Commands.UpdateProduct;
@@ -7,13 +8,16 @@ public class UpdateProductCommandHandler
 {
     private readonly IProductRepository _productRepository;
     private readonly IProductCacheService _productCacheService;
+    private readonly IProductEventPublisher _productEventPublisher;
 
     public UpdateProductCommandHandler(
         IProductRepository productRepository,
-        IProductCacheService productCacheService)
+        IProductCacheService productCacheService,
+        IProductEventPublisher productEventPublisher)
     {
         _productRepository = productRepository;
         _productCacheService = productCacheService;
+        _productEventPublisher = productEventPublisher;
     }
 
     public async Task<bool> HandleAsync(UpdateProductCommand command, CancellationToken cancellationToken = default)
@@ -33,6 +37,7 @@ public class UpdateProductCommandHandler
 
         await _productRepository.UpdateAsync(existingProduct, cancellationToken);
         await _productCacheService.RemoveProductsAsync(cancellationToken);
+        await _productEventPublisher.PublishProductUpdatedAsync(existingProduct, cancellationToken);
 
         return true;
     }

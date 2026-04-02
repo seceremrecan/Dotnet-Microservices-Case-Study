@@ -9,3 +9,4 @@ C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\refint\Log.Domain.dll
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\Log.Domain.pdb
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\ref\Log.Domain.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Domain\obj\Debug\net8.0\Log.Domain.sourcelink.json

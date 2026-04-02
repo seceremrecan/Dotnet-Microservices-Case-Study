@@ -13,3 +13,4 @@ C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Auth\Auth.Applicati
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Auth\Auth.Application\obj\Debug\net8.0\refint\Auth.Application.dll
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Auth\Auth.Application\obj\Debug\net8.0\Auth.Application.pdb
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Auth\Auth.Application\obj\Debug\net8.0\ref\Auth.Application.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Auth\Auth.Application\obj\Debug\net8.0\Auth.Application.sourcelink.json

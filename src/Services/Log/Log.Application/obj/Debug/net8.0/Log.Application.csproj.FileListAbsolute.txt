@@ -13,3 +13,4 @@ C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\refint\Log.Application.dll
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\Log.Application.pdb
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\ref\Log.Application.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Application\obj\Debug\net8.0\Log.Application.sourcelink.json

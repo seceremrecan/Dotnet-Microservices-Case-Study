@@ -1023,7 +1023,8 @@
       "xunit.runner.visualstudio/2.5.3": {},
       "Product.Application/1.0.0": {
         "dependencies": {
-          "Product.Domain": "1.0.0"
+          "Product.Domain": "1.0.0",
+          "Shared.Contracts": "1.0.0"
         },
         "runtime": {
           "Product.Application.dll": {
@@ -1035,6 +1036,14 @@
       "Product.Domain/1.0.0": {
         "runtime": {
           "Product.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Shared.Contracts/1.0.0": {
+        "runtime": {
+          "Shared.Contracts.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1677,6 +1686,11 @@
       "sha512": ""
     },
     "Product.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

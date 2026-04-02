@@ -13,3 +13,6 @@ C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.App
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Application\obj\Debug\net8.0\refint\Product.Application.dll
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Application\obj\Debug\net8.0\Product.Application.pdb
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Application\obj\Debug\net8.0\ref\Product.Application.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Application\bin\Debug\net8.0\Shared.Contracts.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Application\bin\Debug\net8.0\Shared.Contracts.pdb
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Application\obj\Debug\net8.0\Product.Application.sourcelink.json

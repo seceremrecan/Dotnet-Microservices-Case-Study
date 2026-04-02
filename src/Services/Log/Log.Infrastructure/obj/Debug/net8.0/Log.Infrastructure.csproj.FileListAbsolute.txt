@@ -17,3 +17,6 @@ C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Infrastruct
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Infrastructure\obj\Debug\net8.0\ref\Log.Infrastructure.dll
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Infrastructure\bin\Debug\net8.0\Log.Infrastructure.runtimeconfig.json
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Infrastructure\obj\Debug\net8.0\Log.Infrastructure.genruntimeconfig.cache
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Infrastructure\bin\Debug\net8.0\Shared.Contracts.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Infrastructure\bin\Debug\net8.0\Shared.Contracts.pdb
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Log\Log.Infrastructure\obj\Debug\net8.0\Log.Infrastructure.sourcelink.json

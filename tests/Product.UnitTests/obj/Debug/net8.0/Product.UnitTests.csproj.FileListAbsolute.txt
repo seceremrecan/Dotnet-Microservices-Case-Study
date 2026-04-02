@@ -102,3 +102,6 @@ C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Product.UnitTests\obj\Debu
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Product.UnitTests\obj\Debug\net8.0\Product.UnitTests.pdb
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Product.UnitTests\obj\Debug\net8.0\Product.UnitTests.genruntimeconfig.cache
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Product.UnitTests\obj\Debug\net8.0\ref\Product.UnitTests.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Product.UnitTests\bin\Debug\net8.0\Shared.Contracts.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Product.UnitTests\bin\Debug\net8.0\Shared.Contracts.pdb
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Product.UnitTests\obj\Debug\net8.0\Product.UnitTests.sourcelink.json

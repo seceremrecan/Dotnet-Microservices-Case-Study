@@ -5,4 +5,5 @@ namespace Product.Application.Abstractions.Messaging;
 public interface IProductEventPublisher
 {
     Task PublishProductCreatedAsync(ProductEntity product, CancellationToken cancellationToken = default);
+    Task PublishProductUpdatedAsync(ProductEntity product, CancellationToken cancellationToken = default);
 }

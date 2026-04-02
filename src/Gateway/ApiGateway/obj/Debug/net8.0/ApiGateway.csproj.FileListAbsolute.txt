@@ -33,3 +33,4 @@ C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Gateway\ApiGateway\obj\Debug
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Gateway\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Gateway\ApiGateway\bin\Debug\net8.0\System.IO.Hashing.dll
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Gateway\ApiGateway\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Gateway\ApiGateway\obj\Debug\net8.0\ApiGateway.sourcelink.json

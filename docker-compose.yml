@@ -4,3 +4,10 @@ services:
     container_name: redis-cache
     ports:
       - "6379:6379"
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq-broker
+    ports:
+      - "5672:5672"
+      - "15672:15672"

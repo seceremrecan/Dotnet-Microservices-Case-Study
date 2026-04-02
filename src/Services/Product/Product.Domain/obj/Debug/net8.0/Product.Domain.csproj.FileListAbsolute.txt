@@ -9,3 +9,4 @@ C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Dom
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Domain\obj\Debug\net8.0\refint\Product.Domain.dll
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.pdb
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Domain\obj\Debug\net8.0\ref\Product.Domain.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.sourcelink.json

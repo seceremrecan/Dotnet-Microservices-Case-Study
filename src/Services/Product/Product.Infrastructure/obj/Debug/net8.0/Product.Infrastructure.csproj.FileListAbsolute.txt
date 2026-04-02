@@ -17,3 +17,6 @@ C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Inf
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Infrastructure\obj\Debug\net8.0\Product.Infrastructure.pdb
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Infrastructure\obj\Debug\net8.0\Product.Infrastructure.genruntimeconfig.cache
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Infrastructure\obj\Debug\net8.0\ref\Product.Infrastructure.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Infrastructure\bin\Debug\net8.0\Shared.Contracts.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Infrastructure\bin\Debug\net8.0\Shared.Contracts.pdb
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\src\Services\Product\Product.Infrastructure\obj\Debug\net8.0\Product.Infrastructure.sourcelink.json

@@ -1713,7 +1713,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Product.Domain": "1.0.0"
+          "Product.Domain": "1.0.0",
+          "Shared.Contracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Product.Application.dll": {}
@@ -1730,6 +1731,16 @@
         },
         "runtime": {
           "bin/placeholder/Product.Domain.dll": {}
+        }
+      },
+      "Shared.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Shared.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.Contracts.dll": {}
         }
       }
     }
@@ -5530,6 +5541,11 @@
       "type": "project",
       "path": "../../src/Services/Product/Product.Domain/Product.Domain.csproj",
       "msbuildProject": "../../src/Services/Product/Product.Domain/Product.Domain.csproj"
+    },
+    "Shared.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../../src/Shared/Shared.Contracts/Shared.Contracts.csproj",
+      "msbuildProject": "../../src/Shared/Shared.Contracts/Shared.Contracts.csproj"
     }
   },
   "projectFileDependencyGroups": {

@@ -102,3 +102,4 @@ C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Auth.UnitTests\obj\Debug\n
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Auth.UnitTests\obj\Debug\net8.0\Auth.UnitTests.pdb
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Auth.UnitTests\obj\Debug\net8.0\Auth.UnitTests.genruntimeconfig.cache
 C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Auth.UnitTests\obj\Debug\net8.0\ref\Auth.UnitTests.dll
+C:\Users\Emre\Desktop\BackendDeveloperCaseStudy\tests\Auth.UnitTests\obj\Debug\net8.0\Auth.UnitTests.sourcelink.json
